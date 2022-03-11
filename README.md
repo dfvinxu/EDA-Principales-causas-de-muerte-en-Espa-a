@@ -1,7 +1,7 @@
- <!-- IMAGEN DEL PROYECTO -->
+ <!-- IMAGEN EDA -->
  <br />
  <p align="center">
-  <img src="https://miro.medium.com/max/488/1*acvIjDmFLqtb_e-uvY3qOA.png" alt="drawing" width="300"/>
+   <img src="https://miro.medium.com/max/488/1*acvIjDmFLqtb_e-uvY3qOA.png" alt="drawing" width="300"/>
    </a>
 
    <h3 align="center">EDA - Principales causas de muerte en España</h3>
@@ -35,9 +35,8 @@
 
 Este proyecto se centra en el análisis de los datos sobre las diferentes causas de muerte en España durante un periodo de 40 años. La finalidad del proyecto es realizar una comparativa de las principales causas. Todos los datos utilizados para la realización del mismo han sido obtenidos directamente de la página oficial del <a href="https://www.ine.es/index.htm">Instituto Nacional de Estadística</a> (INE).
 
- Evolución de las muertes totales en España durante el periodo 1980-2020.
-
- [![Product1][product-screenshot1]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+<p align="center">
+   <img src="https://i.pinimg.com/originals/c8/4d/a7/c84da7d0e5972410491435b06da4a175.jpg" alt="drawing" width="900"/>
 
  ### Librerias utilizadas
 
