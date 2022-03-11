@@ -1,8 +1,7 @@
  <!-- IMAGEN DEL PROYECTO -->
  <br />
  <p align="center">
-   <a href="https://i.pinimg.com/originals/55/7c/ce/557cce2513704946429db193352ba95e.jpg">
-     <img src="dp.png" alt="Logo" width="80" height="80">
+  <img src="https://miro.medium.com/max/488/1*acvIjDmFLqtb_e-uvY3qOA.png" alt="drawing" width="300"/>
    </a>
 
    <h3 align="center">EDA - Principales causas de muerte en España</h3>
