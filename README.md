@@ -14,9 +14,11 @@
      <li>
        <a href="#sobre-el-proyecto">Sobre el proyecto</a>
        <ul>
-         <li><a href="#librerias-utilizadas">Librerias utilizadas</a></li>
+         <li><a href="#hipotesis">Hipotesis</a></li>
        </ul>
-     </li>
+     <li>
+       <a href="#librerias-utilizadas">Librerias utilizadas</a>
+       <ul>
      <li>
        <a href="#resumen-del-proceso-de-trabajo-con-datos">Resumen del proceso de trabajo con datos</a>
        <ul>
@@ -37,6 +39,8 @@ Este proyecto se centra en el análisis de los datos sobre las diferentes causas
 
 <p align="center">
    <img src="https://i.pinimg.com/originals/c8/4d/a7/c84da7d0e5972410491435b06da4a175.jpg" alt="drawing" width="900"/>
+ 
+ #### Hipotesis
  
  La hipotesis planteada es si el COVID-19 fue la principal causa de muerte en España en 2020.
 
