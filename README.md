@@ -43,6 +43,8 @@ Este proyecto se centra en el análisis de los datos sobre las diferentes causas
  #### Hipotesis
  
  La hipotesis planteada es si el COVID-19 fue la principal causa de muerte en España en 2020.
+ 
+ Una segunda hipotesis, al hilo de la primera, es que hay otras "pandemias" que causan un alto número de muertos en España.
 
  ### Librerias utilizadas
 
