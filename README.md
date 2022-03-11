@@ -25,7 +25,7 @@
          <li><a href="#elbaoración-de-los-grágicos">Elaboración de los gráficos</a></li>
        </ul>
      </li>
-     <li><a href="#license">License</a></li>
+     <li><a href="#???">???</a></li>
    </ol>
  </details>
 
@@ -62,4 +62,10 @@ Para la realización de este proyecto he utilizado cuatro datasets diferentes qu
 Una vez leído el fichero .csv en Python, el proceso ha sido similar en los cuatro casos:
 
 - Eliminar aquellas columnas que no iban a resultar útiles (como la de sexo y la de edad, ya que en este proyecto me he basado en datos totales de la población, sin distinción por sexo ni edad).
-- 
+- Trabajar los datos para obtener distintos dataframes con los que ir elaborando los diferentes gráficos.
+
+#### Elaboración de los gráficos
+
+En los cuatro casos, lo primero que he hecho ha sido realizar un gráfico con cada uno de los datasets con la evolución de las muertes a lo largo del periodo estudiado (1980-2020).
+
+Una vez obtenido este primer gráfico que nos muestra los totales de muertes a lo largo del periodo, he realizado diferentes gráficos para cada dataset comparando las muertes en los años 1980 y 2020.
