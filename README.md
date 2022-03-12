@@ -18,15 +18,12 @@
        </ul>
      <li>
        <a href="#librerias-utilizadas">Librerias utilizadas</a>
-       <ul>
      <li>
-       <a href="#resumen-del-proceso-de-trabajo-con-datos">Resumen del proceso de trabajo con datos</a>
-       <ul>
-         <li><a href="#obtención-y-limpieza-de-datos">Obtención y limpieza de datos</a></li>
-         <li><a href="#elbaoración-de-los-grágicos">Elaboración de los gráficos</a></li>
-       </ul>
-     </li>
-     <li><a href="#???">???</a></li>
+      <a href="#resumen-del-proceso-de-trabajo-con-datos">Resumen del proceso de trabajo con datos</a>
+      <ul>
+        <li><a href="#obtención-y-limpieza-de-datos">Obtención y limpieza de datos</a></li>
+        <li><a href="#elaboración-de-los-gráficos">Elaboración de los gráficos</a></li>
+      <ul>
    </ol>
  </details>
 
